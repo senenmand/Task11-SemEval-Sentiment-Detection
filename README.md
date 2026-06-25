@@ -240,6 +240,13 @@ Key findings include:
 Overall, **Experiment 4 (Class Weights)** achieved the best balance between precision and recall and obtained the highest Macro F1 score, making it the most suitable model for deployment.
 
 ---
+For this project I created a interface in tkinter to visualize the results.
+
+![Photo of interface](images/screenshot_interface.png)
+
+Here we can observe that for each text we can make a prediction for each labels. In the example exposed we can observed that the model classified in Sadness and Fear.  We can also observed the percentage that the model give for each emotion.
+
+---
 
 # 🚀 Technologies
 
