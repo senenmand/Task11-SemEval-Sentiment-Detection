@@ -240,6 +240,8 @@ Key findings include:
 Overall, **Experiment 4 (Class Weights)** achieved the best balance between precision and recall and obtained the highest Macro F1 score, making it the most suitable model for deployment.
 
 ---
+# 🖼️ Interface
+
 For this project I created a interface in tkinter to visualize the results.
 
 ![Photo of interface](images/screenshot_interface.png)
