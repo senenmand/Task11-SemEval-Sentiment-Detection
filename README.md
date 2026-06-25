@@ -28,6 +28,7 @@ Each text can be assigned one or more of the following emotions:
 * 😨 Fear
 * 😡 Anger
 
+For this project we will try to predict the class labels to each text.
 ---
 
 # 🏗️ Methodology
